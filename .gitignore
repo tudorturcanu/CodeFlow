@@ -1,0 +1,26 @@
+# Xcode
+## User settings
+xcuserdata/
+*.xcuserstate
+project.xcworkspace/xcuserdata/
+*.moved-aside
+
+## Build & DerivedData
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# SPM
+.build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon\r
+._*
+.Spotlight-V100
+.Trashes
